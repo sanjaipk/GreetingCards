@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T17:54:50.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7dypcs2yVkmHUlGAvZXD" version="12.4.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-08T18:02:26.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-jmbShJp1h4dku3ajbNK" version="12.4.9" type="github" pages="2">
   <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
     <mxGraphModel dx="2720" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZJhlFJUBSGtNI9eiGDhY" name="Page-2">
-    <mxGraphModel dx="777" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="85VBYpExMVY2cZqk5exd-0"/>
         <mxCell id="85VBYpExMVY2cZqk5exd-1" parent="85VBYpExMVY2cZqk5exd-0"/>
@@ -425,9 +425,6 @@
         </mxCell>
         <mxCell id="85VBYpExMVY2cZqk5exd-450" value="Play" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;align=left;spacingLeft=11;" vertex="1" parent="85VBYpExMVY2cZqk5exd-1">
           <mxGeometry x="649.45" y="563" width="90" height="17" as="geometry"/>
-        </mxCell>
-        <mxCell id="85VBYpExMVY2cZqk5exd-451" value="Tax/Balance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;align=center;" vertex="1" parent="85VBYpExMVY2cZqk5exd-1">
-          <mxGeometry x="940" y="703.25" width="90" height="17" as="geometry"/>
         </mxCell>
         <mxCell id="85VBYpExMVY2cZqk5exd-452" value="India Visit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="85VBYpExMVY2cZqk5exd-1">
           <mxGeometry x="648.45" y="802.25" width="90" height="17" as="geometry"/>
